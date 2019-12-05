@@ -12,7 +12,7 @@ public class Application1 {
 		S = Math.sqrt(x * b / a) + Math.pow(Math.cos(Math.pow(x + b, 3)),2);
 		System.out.printf("R= %.2f \n", R);
 		System.out.printf("S= %.2f", S);
-
+ //3
 	}
 
 }
